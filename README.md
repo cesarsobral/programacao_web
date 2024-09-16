@@ -25,8 +25,6 @@ Este repositório contém um projeto desenvolvido para a disciplina de Programa�
 
 - **`assets/`**: Diretório contendo arquivos estáticos.
   - **`css/style.css`**: Arquivo de estilização para as páginas.
-  - **`imgs/`**: Diretório para imagens utilizadas no projeto.
-  - **`js/`**: Diretório para arquivos JavaScript, caso haja algum.
   
 - **`layouts/`**: Diretório contendo arquivos PHP para layout.
   - **`header.php`**: Arquivo com o cabeçalho padrão utilizado nas páginas.
